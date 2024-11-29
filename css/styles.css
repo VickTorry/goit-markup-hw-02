@@ -1,0 +1,107 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #2e2f42;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+address {
+  font-style: normal;
+}
+
+/* Navigation #region */
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+.nav-contact:hover,
+.nav-contact:focus {
+  color: #404bbf;
+}
+
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  line-height: 1.16;
+}
+
+.logo-dark {
+  color: #2e2f42;
+}
+
+/* #endregion */
+
+/* Hero #region */
+
+h1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+}
+
+.order-btn {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.order-btn:hover,
+.order-btn:focus {
+  background-color: #404bbf;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+/* #endregion */
+
+/* Our team #region */
+
+.our-team {
+  background-color: #f4f4fd;
+}
+
+/* #endregion */
+
+/* Footer #region */
+footer {
+  background-color: #2e2f42;
+}
+
+.logo-light {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  color: #f4f4fd;
+}
+
+/* #endregion */
